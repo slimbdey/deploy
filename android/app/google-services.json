@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "961427409136",
+    "firebase_url": "https://fir-auth-8b54a.firebaseio.com",
+    "project_id": "fir-auth-8b54a",
+    "storage_bucket": "fir-auth-8b54a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961427409136:android:59ec9426d2893e73c6da35",
+        "android_client_info": {
+          "package_name": "com.example.hw12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RKuFSlucNbJuB7_cXTNL1kJM2iIATAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
